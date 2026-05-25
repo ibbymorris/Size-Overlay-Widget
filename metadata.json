@@ -1,0 +1,6 @@
+{
+  "name": "Squarespace Size Overlay Widget",
+  "description": "Estimates model height and garment size, adding an overlay to images for Squarespace with persistent memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
